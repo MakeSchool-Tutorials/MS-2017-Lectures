@@ -1,6 +1,6 @@
 ---
-title: "Make School Orientation"
-slug: orientation
+title: "Twitter Bot Project"
+slug: twitter-bot-project
 ---
 
 

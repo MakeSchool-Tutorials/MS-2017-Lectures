@@ -1,6 +1,6 @@
 ---
-title: "Make School Orientation"
-slug: orientation
+title: "Introduction to Python"
+slug: introduction-to-python
 ---
 
 
