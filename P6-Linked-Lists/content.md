@@ -1,0 +1,8 @@
+---
+title: "Linked Lists"
+slug: linked-lists
+---
+
+
+
+<embed src="https://s3.amazonaws.com/mgwu-misc/MS-17/Slides/Linked+Lists.pdf" width="640" height="360" type='application/pdf'>
